@@ -35,7 +35,7 @@
 ![desktop screenshot](./screenshots/desktop.png)
 ![mobile screenshot](./screenshots/mobile.png)
 
-This challenge was a bit harder than I expected, because to build it it's necessary to be familiar with CSS Grid, which honestly I wasn't before building this. With that said, this was some much needed practice and pushed to actually learn how to use CSS Grid in a real-world scenario, since it became easier to just learn Grid over trying to build this design using Flexbox.
+This challenge was a bit harder than I expected, because to build it it's necessary to be familiar with CSS Grid, which honestly I wasn't before building this. With that said, this was some much needed practice and pushed to actually learn how to use CSS Grid, since it became easier to just learn Grid over trying to build this design using Flexbox.
 
 ### Built With
 
